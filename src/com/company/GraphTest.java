@@ -2,9 +2,6 @@ package com.company;
 
 import org.junit.jupiter.api.Test;
 
-import java.awt.*;
-import java.awt.geom.Point2D;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class GraphTest {

@@ -76,6 +76,8 @@ public class AdjacencyGraph {
           System.out.println(v.getPrev().name + " is connected with " + v.name + " (weight: " + v.dist + ")");
         }
       }
+
+      System.out.println("Price: " + (distance * 1000000));
     }
 }
 
